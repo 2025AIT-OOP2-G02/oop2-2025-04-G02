@@ -17,7 +17,7 @@ tqdm\
 more-itertools\
 tiktoken\
 huggingface_hub\
-scipy\
+scipy
 
 ### インストール方法：
 
