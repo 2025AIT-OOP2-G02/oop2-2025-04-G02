@@ -9,15 +9,15 @@
 ## 🚀 実行手順
 
 ### requirements.txt
-mlx>=0.11
-numba
-numpy
-torch
-tqdm
-more-itertools
-tiktoken
-huggingface_hub
-scipy
+mlx>=0.11\
+numba\
+numpy\
+torch\
+tqdm\
+more-itertools\
+tiktoken\
+huggingface_hub\
+scipy\
 
 ### インストール方法：
 
