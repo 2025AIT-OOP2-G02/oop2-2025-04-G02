@@ -2,9 +2,9 @@ import os
 import datetime
 
 # デフォルトの保存先ファイル
-DEFAULT_OUTPUT_FILE = "output.txt"
+DEFAULT_OUTPUT_FILE = "files/output.txt"
 
-def save_transcript(text: str, 
+def saver(text: str, 
                     output_file: str = DEFAULT_OUTPUT_FILE) -> None:
     """
     文字起こしされたテキストを、タイムスタンプ付きで指定ファイルに追記（append）する。
